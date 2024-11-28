@@ -1,0 +1,17 @@
+{
+  "name": "parcel-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "dev": "npx parcel serve index.html",
+     "build": "npx parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.12.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "description": ""
+}
